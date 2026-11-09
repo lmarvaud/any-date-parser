@@ -161,6 +161,7 @@ Summary:
 - day month year
 - day monthname year
 - +/-/ago periods
+- last/next period
 - now/today/yesterday/tomorrow
 - Twitter
 - Fuzzy
@@ -303,6 +304,8 @@ relative time
 - -8 months
 - in 13 days
 - +21 weeks
+- last quarter
+- next month
 
 monthname day
 
